@@ -171,7 +171,8 @@ img {
   }
   
   dialog .dialog_content{
-    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
     margin: unset !important;
   }
   
